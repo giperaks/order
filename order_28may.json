@@ -1,1 +1,3575 @@
-[]
+[
+  {
+    "id": 1740997494673,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-usb-2gb.png",
+        "productName": "YADDAS USB 2GB EUROACS",
+        "productPrice": "4.80 AZN",
+        "count": "7",
+        "getId": "LJQ1068"
+      }
+    ]
+  },
+  {
+    "id": 1740997667445,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-usb-2gb.png",
+        "productName": "YADDAS USB 2GB EUROACS",
+        "productPrice": "4.80 AZN",
+        "count": "5",
+        "getId": "ECU7971"
+      }
+    ]
+  },
+  {
+    "id": 1740997751525,
+    "card": [
+      {
+        "imageSrc": "/img/holder-telefon.jpeg",
+        "productName": "HOLDER DISPLAY TELEFON BLACK",
+        "productPrice": "1 AZN",
+        "count": "5",
+        "getId": "WIQ6641"
+      },
+      {
+        "imageSrc": "/img/t11.jpeg",
+        "productName": "HOLDER DESKTOP BLACK T11",
+        "productPrice": "3.50 AZN",
+        "count": "7",
+        "getId": "TYQ8525"
+      },
+      {
+        "imageSrc": "/img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": "8",
+        "getId": "HSJ6290"
+      },
+      {
+        "imageSrc": "/img/fx01-magnit-demir.jpg",
+        "productName": "HOLDER CAR FONI FX01 MAGNET DEMIR",
+        "productPrice": "0.50 AZN",
+        "count": "4",
+        "getId": "YZP7429"
+      },
+      {
+        "imageSrc": "/img/canta-red-line.jpg",
+        "productName": "CANTA COMPUTER 15.6'' RED LINE BLACK",
+        "productPrice": "7.90 AZN",
+        "count": "2",
+        "getId": "MMT4776"
+      },
+      {
+        "imageSrc": "/img/canta-b005.jpg",
+        "productName": "CANTA COMPUTER B005.14'' OKADE LIGHT GRAY",
+        "productPrice": "23 AZN",
+        "count": "3",
+        "getId": "DEC6871"
+      },
+      {
+        "imageSrc": "/img/canta-b006.jpg",
+        "productName": "CANTA COMPUTER B006.14'' OKADE BLUE",
+        "productPrice": "12.50 AZN",
+        "count": "4",
+        "getId": "YLX0609"
+      },
+      {
+        "imageSrc": "/img/canta-8899.jpg",
+        "productName": "CANTA COMPUTER 8899H 15.6'' HP",
+        "productPrice": "12.50 AZN",
+        "count": "5",
+        "getId": "RNU8393"
+      },
+      {
+        "imageSrc": "/img/eu-pn03.jpg",
+        "productName": "STYLUS PEN EUROACS EU-PN03 UNIVERSAL",
+        "productPrice": "6.50 AZN",
+        "count": "6",
+        "getId": "ISD5068"
+      },
+      {
+        "imageSrc": "/img/eu-pn07.jpg",
+        "productName": "STYLUS PEN EUROACS EU-PN07 IOS",
+        "productPrice": "14.50 AZN",
+        "count": "7",
+        "getId": "UCO6612"
+      },
+      {
+        "imageSrc": "/img/bt-komp.jpg",
+        "productName": "RECIVER BT KOMPUTER 5.0",
+        "productPrice": "3 AZN",
+        "count": "8",
+        "getId": "OIO5154"
+      },
+      {
+        "imageSrc": "/img/bt-1090.jpg",
+        "productName": "RECIVER BT CAR 1090",
+        "productPrice": "3.50 AZN",
+        "count": "8",
+        "getId": "PCA8728"
+      },
+      {
+        "imageSrc": "/img/ja043-m.png",
+        "productName": "CABLE USB JOKADE JA043 M",
+        "productPrice": "0.60 AZN",
+        "count": "7",
+        "getId": "ZYN2170"
+      },
+      {
+        "imageSrc": "/img/ja043-c.png",
+        "productName": "CABLE USB JOKADE JA043 C",
+        "productPrice": "0.70 AZN",
+        "count": "8",
+        "getId": "QQO6128"
+      },
+      {
+        "imageSrc": "/img/z008-t.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED C",
+        "productPrice": "3.50 AZN",
+        "count": "8",
+        "getId": "ARA9449"
+      },
+      {
+        "imageSrc": "/img/z008-m.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED M",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "KOL2508"
+      },
+      {
+        "imageSrc": "/img/y11-l.png",
+        "productName": "CABLE USB EUROACS EU-Y11 L WH",
+        "productPrice": "1.30 AZN",
+        "count": "3",
+        "getId": "ACU3112"
+      },
+      {
+        "imageSrc": "/img/y11-usb-to-mikro.png",
+        "productName": "CABLE USB EUROACS EU-Y11 M WH",
+        "productPrice": "1 AZN",
+        "count": "2",
+        "getId": "GWR9452"
+      },
+      {
+        "imageSrc": "/img/y11-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Y11 60W C",
+        "productPrice": "1.80 AZN",
+        "count": "5",
+        "getId": "QZW1731"
+      },
+      {
+        "imageSrc": "/img/z014-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z014 20W L",
+        "productPrice": "3.50 AZN",
+        "count": "6",
+        "getId": "ROE3489"
+      },
+      {
+        "imageSrc": "/img/z087-c.png",
+        "productName": "CABLE USB EUROACS EU-Z087 C",
+        "productPrice": "1.80 AZN",
+        "count": "4",
+        "getId": "UBH6608"
+      },
+      {
+        "imageSrc": "/img/z087-l.png",
+        "productName": "CABLE USB EUROACS EU-Z087 L",
+        "productPrice": "1.60 AZN",
+        "count": "7",
+        "getId": "YDV1077"
+      },
+      {
+        "imageSrc": "/img/z087-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z087C L",
+        "productPrice": "2.50 AZN",
+        "count": "5",
+        "getId": "BYB3358"
+      },
+      {
+        "imageSrc": "/img/z112-c.png",
+        "productName": "CABLE USB EUROACS EU-Z112A C",
+        "productPrice": "3.50 AZN",
+        "count": "4",
+        "getId": "CXE8185"
+      }
+    ]
+  },
+  {
+    "id": 1740998006599,
+    "card": [
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLACK",
+        "productPrice": "4 AZN",
+        "count": "7",
+        "getId": "SUL5187"
+      }
+    ]
+  },
+  {
+    "id": 1740998074930,
+    "card": [
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLACK",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "SBW5570"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLUE",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "CDX5421"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 RED",
+        "productPrice": "4 AZN",
+        "count": "3",
+        "getId": "FBW3917"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 GREEN",
+        "productPrice": "4 AZN",
+        "count": "3",
+        "getId": "NPN6021"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 BLACK",
+        "productPrice": "8 AZN",
+        "count": "6",
+        "getId": "GTH7202"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 WHITE",
+        "productPrice": "8 AZN",
+        "count": "8",
+        "getId": "OCL7358"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 RED",
+        "productPrice": "8 AZN",
+        "count": "9",
+        "getId": "TAO0446"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 BLACK",
+        "productPrice": "6.80 AZN",
+        "count": "3",
+        "getId": "UIY4849"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 SILVER",
+        "productPrice": "6.80 AZN",
+        "count": "4",
+        "getId": "OCB7925"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 BLUE",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "PRO6216"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 RED",
+        "productPrice": "6.80 AZN",
+        "count": "4",
+        "getId": "VSR9594"
+      },
+      {
+        "imageSrc": "/img/kr-max.jpg",
+        "productName": "HF BIG BT KRMAX WHITE",
+        "productPrice": "14.50 AZN",
+        "count": "6",
+        "getId": "PSA6977"
+      },
+      {
+        "imageSrc": "/img/kr-max.jpg",
+        "productName": "HF BIG BT KRMAX RED",
+        "productPrice": "14.50 AZN",
+        "count": "8",
+        "getId": "AGI1057"
+      },
+      {
+        "imageSrc": "/img/hs32.jpg",
+        "productName": "HF BIG BT EUROACS EU-HS32 BLACK",
+        "productPrice": "22 AZN",
+        "count": "3",
+        "getId": "ZYA9200"
+      },
+      {
+        "imageSrc": "/img/hs830.jpg",
+        "productName": "HF BIG BT EUROACS EU-HS30 BLACK",
+        "productPrice": "25.50 AZN",
+        "count": "5",
+        "getId": "HYP2676"
+      },
+      {
+        "imageSrc": "/img/wh1000xm5.jpg",
+        "productName": "HF BIG BT SONY WH1000XM5",
+        "productPrice": "15 AZN",
+        "count": "4",
+        "getId": "LQJ4861"
+      },
+      {
+        "imageSrc": "/img/tune-510.jpg",
+        "productName": "HF BIG BT JBL TUNE 510",
+        "productPrice": "12 AZN",
+        "count": "8",
+        "getId": "XMM9236"
+      },
+      {
+        "imageSrc": "/img/sn660.jpg",
+        "productName": "HF BIG BT JBL SN660",
+        "productPrice": "15 AZN",
+        "count": "8",
+        "getId": "LPM8122"
+      },
+      {
+        "imageSrc": "/img/rkd-570.jpg",
+        "productName": "HF BIG BT RGB RKD-570",
+        "productPrice": "21 AZN",
+        "count": "5",
+        "getId": "AJL4746"
+      }
+    ]
+  },
+  {
+    "id": 1740998111659,
+    "card": [
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLACK",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "SBW5570"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLUE",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "CDX5421"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 RED",
+        "productPrice": "4 AZN",
+        "count": "3",
+        "getId": "FBW3917"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 GREEN",
+        "productPrice": "4 AZN",
+        "count": "3",
+        "getId": "NPN6021"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 BLACK",
+        "productPrice": "8 AZN",
+        "count": "6",
+        "getId": "GTH7202"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 WHITE",
+        "productPrice": "8 AZN",
+        "count": "8",
+        "getId": "OCL7358"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 RED",
+        "productPrice": "8 AZN",
+        "count": "9",
+        "getId": "TAO0446"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 BLACK",
+        "productPrice": "6.80 AZN",
+        "count": "3",
+        "getId": "UIY4849"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 SILVER",
+        "productPrice": "6.80 AZN",
+        "count": "4",
+        "getId": "OCB7925"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 BLUE",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "PRO6216"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 RED",
+        "productPrice": "6.80 AZN",
+        "count": "4",
+        "getId": "VSR9594"
+      },
+      {
+        "imageSrc": "/img/kr-max.jpg",
+        "productName": "HF BIG BT KRMAX WHITE",
+        "productPrice": "14.50 AZN",
+        "count": "6",
+        "getId": "PSA6977"
+      },
+      {
+        "imageSrc": "/img/kr-max.jpg",
+        "productName": "HF BIG BT KRMAX RED",
+        "productPrice": "14.50 AZN",
+        "count": "8",
+        "getId": "AGI1057"
+      },
+      {
+        "imageSrc": "/img/hs32.jpg",
+        "productName": "HF BIG BT EUROACS EU-HS32 BLACK",
+        "productPrice": "22 AZN",
+        "count": "3",
+        "getId": "ZYA9200"
+      },
+      {
+        "imageSrc": "/img/hs830.jpg",
+        "productName": "HF BIG BT EUROACS EU-HS30 BLACK",
+        "productPrice": "25.50 AZN",
+        "count": "5",
+        "getId": "HYP2676"
+      },
+      {
+        "imageSrc": "/img/wh1000xm5.jpg",
+        "productName": "HF BIG BT SONY WH1000XM5",
+        "productPrice": "15 AZN",
+        "count": "4",
+        "getId": "LQJ4861"
+      },
+      {
+        "imageSrc": "/img/tune-510.jpg",
+        "productName": "HF BIG BT JBL TUNE 510",
+        "productPrice": "12 AZN",
+        "count": "8",
+        "getId": "XMM9236"
+      },
+      {
+        "imageSrc": "/img/sn660.jpg",
+        "productName": "HF BIG BT JBL SN660",
+        "productPrice": "15 AZN",
+        "count": "8",
+        "getId": "LPM8122"
+      },
+      {
+        "imageSrc": "/img/rkd-570.jpg",
+        "productName": "HF BIG BT RGB RKD-570",
+        "productPrice": "21 AZN",
+        "count": "5",
+        "getId": "AJL4746"
+      }
+    ]
+  },
+  {
+    "id": 1740998837458,
+    "card": [
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "5",
+        "getId": "HTA3573"
+      },
+      {
+        "imageSrc": "/img/a1938.jpeg",
+        "productName": "TWS AIRPODS-2 A1938 ",
+        "productPrice": "12 AZN",
+        "count": "2",
+        "getId": "NIC7778"
+      },
+      {
+        "imageSrc": "/img/a2-pro.jpeg",
+        "productName": "TWS A2 PRO WITH DISPLAY ",
+        "productPrice": "20 AZN",
+        "count": "3",
+        "getId": "UNH2551"
+      },
+      {
+        "imageSrc": "/img/anc+enc.jpg",
+        "productName": "TWS AIRPODS ANC+ENC PRO 2 WITH DISPLAY ",
+        "productPrice": "22 AZN",
+        "count": "5",
+        "getId": "CYF7178"
+      },
+      {
+        "imageSrc": "/img/a11.jpg",
+        "productName": "TWS A11 WITH DISPLAY ",
+        "productPrice": "21 AZN",
+        "count": "2",
+        "getId": "MAD4136"
+      },
+      {
+        "imageSrc": "/img/airpods-4.jpg",
+        "productName": "TWS AIRPODS-4",
+        "productPrice": "28 AZN",
+        "count": "2",
+        "getId": "PAC6315"
+      },
+      {
+        "imageSrc": "/img/rods-pro.jpg",
+        "productName": "TWS EUROACS RODS PRO ANC",
+        "productPrice": "30 AZN",
+        "count": "6",
+        "getId": "JYS0573"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS BLACK",
+        "productPrice": "10.50 AZN",
+        "count": "8",
+        "getId": "FBU6959"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS BLUE",
+        "productPrice": "10.50 AZN",
+        "count": "6",
+        "getId": "RKC8289"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS GREEN",
+        "productPrice": "10.50 AZN",
+        "count": "7",
+        "getId": "UZB6364"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS PINK",
+        "productPrice": "10.50 AZN",
+        "count": "8",
+        "getId": "SLK7464"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS WHITE",
+        "productPrice": "10.50 AZN",
+        "count": "5",
+        "getId": "JCC0149"
+      },
+      {
+        "imageSrc": "/img/m90-pro.jpg",
+        "productName": "TWS M90 PRO",
+        "productPrice": "9 AZN",
+        "count": "4",
+        "getId": "CDA3581"
+      },
+      {
+        "imageSrc": "/img/beam-3.jpg",
+        "productName": "TWS BEAM 3 WITH DISPLAY BLACK",
+        "productPrice": "29 AZN",
+        "count": "5",
+        "getId": "TDN7121"
+      },
+      {
+        "imageSrc": "/img/beam-3.jpg",
+        "productName": "TWS BEAM 3 WITH DISPLAY PURPLE",
+        "productPrice": "29 AZN",
+        "count": "5",
+        "getId": "FZY4675"
+      },
+      {
+        "imageSrc": "/img/y113.jpg",
+        "productName": "TWS Y113 BLACK",
+        "productPrice": "12 AZN",
+        "count": "4",
+        "getId": "LXR3485"
+      },
+      {
+        "imageSrc": "/img/y113.jpg",
+        "productName": "TWS Y113 BLUE",
+        "productPrice": "12 AZN",
+        "count": "4",
+        "getId": "DHB4118"
+      },
+      {
+        "imageSrc": "/img/ji009-black.jpg",
+        "productName": "TWS JOKADE JI009 BLACK",
+        "productPrice": "14 AZN",
+        "count": "4",
+        "getId": "MGR7592"
+      },
+      {
+        "imageSrc": "/img/ji009-white.jpg",
+        "productName": "TWS JOKADE JI009 WHITE",
+        "productPrice": "14 AZN",
+        "count": "3",
+        "getId": "OAO6250"
+      },
+      {
+        "imageSrc": "/img/ji009-green.jpg",
+        "productName": "TWS JOKADE JI009 GREEN",
+        "productPrice": "14 AZN",
+        "count": "3",
+        "getId": "KEQ7784"
+      },
+      {
+        "imageSrc": "/img/ji005.jpg",
+        "productName": "TWS JOKADE JI005",
+        "productPrice": "15 AZN",
+        "count": "3",
+        "getId": "IBM1042"
+      },
+      {
+        "imageSrc": "/img/ea-r4anc.jpg",
+        "productName": "TWS EUROACS EA-R4 ANC ",
+        "productPrice": "26 AZN",
+        "count": "2",
+        "getId": "ZVZ7548"
+      },
+      {
+        "imageSrc": "/img/rods-flip-3.jpg",
+        "productName": "TWS EUROACS RODS FLIP 3",
+        "productPrice": "15 AZN",
+        "count": "2",
+        "getId": "SFQ8731"
+      },
+      {
+        "imageSrc": "/img/rods-flip-4.jpg",
+        "productName": "TWS EUROACS RODS FLIP 4",
+        "productPrice": "24 AZN",
+        "count": "3",
+        "getId": "PAM6760"
+      },
+      {
+        "imageSrc": "/img/nord-buds.jpg",
+        "productName": "TWS NORD BUDS BLACK",
+        "productPrice": "12 AZN",
+        "count": "9",
+        "getId": "KCE0863"
+      },
+      {
+        "imageSrc": "/img/nord-buds.jpg",
+        "productName": "TWS NORD BUDS BLUE",
+        "productPrice": "12 AZN",
+        "count": "6",
+        "getId": "HNL5158"
+      },
+      {
+        "imageSrc": "/img/nord-buds.jpg",
+        "productName": "TWS NORD BUDS GREEN",
+        "productPrice": "12 AZN",
+        "count": "5",
+        "getId": "TWD4699"
+      },
+      {
+        "imageSrc": "/img/nord-buds.jpg",
+        "productName": "TWS NORD BUDS WHITE",
+        "productPrice": "12 AZN",
+        "count": "6",
+        "getId": "TAH1157"
+      },
+      {
+        "imageSrc": "/img/buds-x.jpg",
+        "productName": "TWS BUDS-X BLACK",
+        "productPrice": "11 AZN",
+        "count": "1",
+        "getId": "BOC5866"
+      },
+      {
+        "imageSrc": "/img/buds-x.jpg",
+        "productName": "TWS BUDS-X SILVER",
+        "productPrice": "11 AZN",
+        "count": "2",
+        "getId": "VJZ8136"
+      }
+    ]
+  },
+  {
+    "id": 1741002602506,
+    "card": [
+      {
+        "imageSrc": "/img/holder-telefon.jpeg",
+        "productName": "HOLDER DISPLAY TELEFON BLACK",
+        "productPrice": "1 AZN",
+        "count": 1,
+        "getId": "VUM8303"
+      },
+      {
+        "imageSrc": "/img/t11.jpeg",
+        "productName": "HOLDER DESKTOP BLACK T11",
+        "productPrice": "3.50 AZN",
+        "count": 1,
+        "getId": "LIN3587"
+      },
+      {
+        "imageSrc": "/img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": 1,
+        "getId": "RYB1358"
+      },
+      {
+        "imageSrc": "/img/fx01-magnit-demir.jpg",
+        "productName": "HOLDER CAR FONI FX01 MAGNET DEMIR",
+        "productPrice": "0.50 AZN",
+        "count": 1,
+        "getId": "DKI8408"
+      },
+      {
+        "imageSrc": "/img/canta-8899.jpg",
+        "productName": "CANTA COMPUTER 8899H 15.6'' HP",
+        "productPrice": "12.50 AZN",
+        "count": 1,
+        "getId": "DZW8300"
+      },
+      {
+        "imageSrc": "/img/canta-b006.jpg",
+        "productName": "CANTA COMPUTER B006.14'' OKADE BLUE",
+        "productPrice": "12.50 AZN",
+        "count": 1,
+        "getId": "OPR9301"
+      },
+      {
+        "imageSrc": "/img/canta-b005.jpg",
+        "productName": "CANTA COMPUTER B005.14'' OKADE LIGHT GRAY",
+        "productPrice": "23 AZN",
+        "count": 1,
+        "getId": "HVE0208"
+      },
+      {
+        "imageSrc": "/img/canta-red-line.jpg",
+        "productName": "CANTA COMPUTER 15.6'' RED LINE BLACK",
+        "productPrice": "7.90 AZN",
+        "count": 1,
+        "getId": "AOV2237"
+      },
+      {
+        "imageSrc": "/img/canta-m21.jpg",
+        "productName": "CANTA COMPUTER 15.6'' M21",
+        "productPrice": "12 AZN",
+        "count": 1,
+        "getId": "ERF0459"
+      },
+      {
+        "imageSrc": "/img/eu-pn03.jpg",
+        "productName": "STYLUS PEN EUROACS EU-PN03 UNIVERSAL",
+        "productPrice": "6.50 AZN",
+        "count": 1,
+        "getId": "RIS3265"
+      },
+      {
+        "imageSrc": "/img/eu-pn07.jpg",
+        "productName": "STYLUS PEN EUROACS EU-PN07 IOS",
+        "productPrice": "14.50 AZN",
+        "count": 1,
+        "getId": "BUR1686"
+      },
+      {
+        "imageSrc": "/img/bt-komp.jpg",
+        "productName": "RECIVER BT KOMPUTER 5.0",
+        "productPrice": "3 AZN",
+        "count": 1,
+        "getId": "RCR2642"
+      },
+      {
+        "imageSrc": "/img/bt-1090.jpg",
+        "productName": "RECIVER BT CAR 1090",
+        "productPrice": "3.50 AZN",
+        "count": 1,
+        "getId": "JOW9792"
+      },
+      {
+        "imageSrc": "/img/jb048-m.png",
+        "productName": "CHARGER USB JOKADE JB048 M",
+        "productPrice": "2.20 AZN",
+        "count": 1,
+        "getId": "ZMH7617"
+      },
+      {
+        "imageSrc": "/img/jb048-c.png",
+        "productName": "CHARGER USB JOKADE JB048 C",
+        "productPrice": "2.50 AZN",
+        "count": 1,
+        "getId": "YCP8829"
+      },
+      {
+        "imageSrc": "/img/ma320-c.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MA320 C",
+        "productPrice": "8 AZN",
+        "count": 1,
+        "getId": "MTV3010"
+      },
+      {
+        "imageSrc": "/img/ma320-l.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MA320 L",
+        "productPrice": "8 AZN",
+        "count": 1,
+        "getId": "ZPS3144"
+      },
+      {
+        "imageSrc": "/img/mg357-l.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MG357 L",
+        "productPrice": "7.50 AZN",
+        "count": 1,
+        "getId": "FZA7777"
+      },
+      {
+        "imageSrc": "/img/mg544-c.png",
+        "productName": "CHARGER USB QC4.0 EUROACS EU-MG644 TF C",
+        "productPrice": "6 AZN",
+        "count": 1,
+        "getId": "TDG6659"
+      },
+      {
+        "imageSrc": "/img/ma325-c.png",
+        "productName": "CHARGER USB 20W EUROACS EU-MA325 C",
+        "productPrice": "6.50 AZN",
+        "count": 1,
+        "getId": "CTP7507"
+      },
+      {
+        "imageSrc": "/img/mg656.png",
+        "productName": "CHARGER PD 30W EUROACS EU-MG656 SF C",
+        "productPrice": "11 AZN",
+        "count": 1,
+        "getId": "FUW1204"
+      },
+      {
+        "imageSrc": "/img/fn014-c.png",
+        "productName": "CHARGER USB QC FONI FN014 C",
+        "productPrice": "5.50 AZN",
+        "count": 1,
+        "getId": "YKP2589"
+      },
+      {
+        "imageSrc": "/img/fn014-m.png",
+        "productName": "CHARGER USB QC FONI FN014 M",
+        "productPrice": "5 AZN",
+        "count": 1,
+        "getId": "MLL6211"
+      },
+      {
+        "imageSrc": "/img/samsung-a15-c.png",
+        "productName": "CHARGER USB QC SAMSUNG A15 C",
+        "productPrice": "6 AZN",
+        "count": 1,
+        "getId": "LCS7205"
+      },
+      {
+        "imageSrc": "/img/charger-a26.jpeg",
+        "productName": "CHARGER PD 25W SAMSUNG A26 C",
+        "productPrice": "6.50 AZN",
+        "count": 1,
+        "getId": "CYO2985"
+      },
+      {
+        "imageSrc": "/img/charger-a16.jpeg",
+        "productName": "CHARGER USB 25W SAMSUNG A16 C",
+        "productPrice": "6 AZN",
+        "count": 1,
+        "getId": "YRJ5514"
+      },
+      {
+        "imageSrc": "/img/redmi-14c.jpeg",
+        "productName": "CHARGER USB 33W REDMI 14C C",
+        "productPrice": "6.50 AZN",
+        "count": 1,
+        "getId": "BMK0904"
+      },
+      {
+        "imageSrc": "/img/samsung-a14.jpeg",
+        "productName": "CHARGER USB QC SAMSUNG A14 M",
+        "productPrice": "5.50 AZN",
+        "count": 1,
+        "getId": "DDM4641"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLACK",
+        "productPrice": "4 AZN",
+        "count": 1,
+        "getId": "WBM7801"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLUE",
+        "productPrice": "4 AZN",
+        "count": 1,
+        "getId": "VFB3907"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 RED",
+        "productPrice": "4 AZN",
+        "count": 1,
+        "getId": "WYZ0364"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 GREEN",
+        "productPrice": "4 AZN",
+        "count": 1,
+        "getId": "ITY1219"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 WHITE",
+        "productPrice": "8 AZN",
+        "count": 1,
+        "getId": "KDT5588"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 BLACK",
+        "productPrice": "8 AZN",
+        "count": 1,
+        "getId": "BAQ5268"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 WHITE",
+        "productPrice": "4 AZN",
+        "count": 1,
+        "getId": "ZLG8627"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 BLACK",
+        "productPrice": "6.80 AZN",
+        "count": 1,
+        "getId": "XWZ6171"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 SILVER",
+        "productPrice": "6.80 AZN",
+        "count": 1,
+        "getId": "DTN2600"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 RED",
+        "productPrice": "6.80 AZN",
+        "count": 1,
+        "getId": "JOZ7893"
+      },
+      {
+        "imageSrc": "/img/kr-max.jpg",
+        "productName": "HF BIG BT KRMAX GREEN",
+        "productPrice": "14.50 AZN",
+        "count": 1,
+        "getId": "JMD4898"
+      }
+    ]
+  },
+  {
+    "id": 1741002778081,
+    "card": [
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 11 PRO MAX/XS MAX",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "LEY9829"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 11 PRO/XS",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "HIB8433"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 11/XR",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "YRS2131"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 12 MINI",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "TKU6378"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 12/12 PRO",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "FQT9852"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 13 MINI",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "LUO0984"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 13/13 PRO",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "CPD6194"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 14 PLUS",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "LXD4477"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 14 PRO  ",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "VTB0078"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 15  ",
+        "productPrice": "2 AZN",
+        "count": 1,
+        "getId": "EIA2368"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 15 PRO  ",
+        "productPrice": "2 AZN",
+        "count": 1,
+        "getId": "ZJY6415"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 16",
+        "productPrice": "2 AZN",
+        "count": 1,
+        "getId": "BNY9738"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 16 PLUS",
+        "productPrice": "2 AZN",
+        "count": 1,
+        "getId": "ZSE3096"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 16 PRO",
+        "productPrice": "2 AZN",
+        "count": "63",
+        "getId": "CRQ1573"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR 200 LITE",
+        "productPrice": "1.6 AZN",
+        "count": "63",
+        "getId": "WYR2188"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X5B",
+        "productPrice": "1.6 AZN",
+        "count": "73",
+        "getId": "UWQ3759"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X6B",
+        "productPrice": "1.6 AZN",
+        "count": "73",
+        "getId": "EIR3584"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X7",
+        "productPrice": "1.6 AZN",
+        "count": "73",
+        "getId": "DNX3285"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X7B",
+        "productPrice": "1.6 AZN",
+        "count": "73",
+        "getId": "LGY9589"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X7C",
+        "productPrice": "1.6 AZN",
+        "count": "73",
+        "getId": "LPS3925"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X8A",
+        "productPrice": "1.6 AZN",
+        "count": "44",
+        "getId": "TXZ7282"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X8B",
+        "productPrice": "1.6 AZN",
+        "count": "2",
+        "getId": "FRA4164"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X9",
+        "productPrice": "1.6 AZN",
+        "count": "8",
+        "getId": "AIY2366"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 12 MINI",
+        "productPrice": "1.7 AZN",
+        "count": "8",
+        "getId": "GIQ2157"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 12 PRO MAX",
+        "productPrice": "1.7 AZN",
+        "count": "3",
+        "getId": "COC0859"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 12/12 PRO",
+        "productPrice": "1.7 AZN",
+        "count": "7",
+        "getId": "JSW6811"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 13 MINI",
+        "productPrice": "1.7 AZN",
+        "count": "8",
+        "getId": "CLG5249"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 6G",
+        "productPrice": "1.6 AZN",
+        "count": "7",
+        "getId": "LVF0102"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 6G+/7G+/8G+",
+        "productPrice": "1.6 AZN",
+        "count": "9",
+        "getId": "AXY2091"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 7/8G",
+        "productPrice": "1.6 AZN",
+        "count": "9",
+        "getId": "EXL9921"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS MI 11 LITE",
+        "productPrice": "1.6 AZN",
+        "count": "4",
+        "getId": "TGL1459"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS OPPO A38",
+        "productPrice": "1.6 AZN",
+        "count": "5",
+        "getId": "XIK3774"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS POCO C40",
+        "productPrice": "1.6 AZN",
+        "count": "6",
+        "getId": "WWC5488"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS POCO F6/F6 PRO",
+        "productPrice": "1.6 AZN",
+        "count": "9",
+        "getId": "HYT5776"
+      }
+    ]
+  },
+  {
+    "id": 1741003602397,
+    "card": [
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "6",
+        "getId": "UZK4582"
+      },
+      {
+        "imageSrc": "/img/a1938.jpeg",
+        "productName": "TWS AIRPODS-2 A1938 ",
+        "productPrice": "12 AZN",
+        "count": "7",
+        "getId": "QIE2414"
+      },
+      {
+        "imageSrc": "/img/a2-pro.jpeg",
+        "productName": "TWS A2 PRO WITH DISPLAY ",
+        "productPrice": "20 AZN",
+        "count": "8",
+        "getId": "STR1956"
+      },
+      {
+        "imageSrc": "/img/anc+enc.jpg",
+        "productName": "TWS AIRPODS ANC+ENC PRO 2 WITH DISPLAY ",
+        "productPrice": "22 AZN",
+        "count": "8",
+        "getId": "CDG3608"
+      },
+      {
+        "imageSrc": "/img/a11.jpg",
+        "productName": "TWS A11 WITH DISPLAY ",
+        "productPrice": "21 AZN",
+        "count": "5",
+        "getId": "WAG9267"
+      },
+      {
+        "imageSrc": "/img/rods-pro.jpg",
+        "productName": "TWS EUROACS RODS PRO ANC",
+        "productPrice": "30 AZN",
+        "count": "8",
+        "getId": "NBA1293"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS BLACK",
+        "productPrice": "10.50 AZN",
+        "count": "8",
+        "getId": "NGD4313"
+      }
+    ]
+  },
+  {
+    "id": 1741005204240,
+    "card": [
+      {
+        "imageSrc": "/img/mos-015u.jpg",
+        "productName": "MOUSE WIRED MIKUSO MOS-015U",
+        "productPrice": "2.20 AZN",
+        "count": "8",
+        "getId": "FZA4891"
+      },
+      {
+        "imageSrc": "/img/eu-m17.jpg",
+        "productName": "MOUSE WIRED EUROACS EU-M17 SILENT",
+        "productPrice": "5 AZN",
+        "count": "3",
+        "getId": "VIC5656"
+      },
+      {
+        "imageSrc": "/img/pb110.jpg",
+        "productName": "POWERBANK 10000 EUROACS EU-PB110 22.5 W",
+        "productPrice": "18.50 AZN",
+        "count": "5",
+        "getId": "YDA4379"
+      }
+    ]
+  },
+  {
+    "id": 1741006976960,
+    "card": [
+      {
+        "imageSrc": "/img/pb10.jpg",
+        "productName": "POWERBANK 10000 EUROACS EU-PB10 22.5W",
+        "productPrice": "22 AZN",
+        "count": "5",
+        "getId": "VIL3207"
+      },
+      {
+        "imageSrc": "/img/jg005.jpg",
+        "productName": "POWERBANK 10000 JOKADE JG005",
+        "productPrice": "12 AZN",
+        "count": "8",
+        "getId": "IIR5671"
+      }
+    ]
+  },
+  {
+    "id": 1741012431168,
+    "card": [
+      {
+        "imageSrc": "/img/holder-telefon.jpeg",
+        "productName": "HOLDER DISPLAY TELEFON BLACK",
+        "productPrice": "1 AZN",
+        "count": "6",
+        "getId": "WCT3724"
+      },
+      {
+        "imageSrc": "/img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": "900",
+        "getId": "CMX1422"
+      },
+      {
+        "imageSrc": "/img/fx01-magnit-demir.jpg",
+        "productName": "HOLDER CAR FONI FX01 MAGNET DEMIR",
+        "productPrice": "0.50 AZN",
+        "count": "650",
+        "getId": "OEF7606"
+      },
+      {
+        "imageSrc": "/img/canta-red-line.jpg",
+        "productName": "CANTA COMPUTER 15.6'' RED LINE BLACK",
+        "productPrice": "7.90 AZN",
+        "count": "300",
+        "getId": "CJE6633"
+      },
+      {
+        "imageSrc": "/img/ja043-m.png",
+        "productName": "CABLE USB JOKADE JA043 M",
+        "productPrice": "0.60 AZN",
+        "count": "56",
+        "getId": "RNV7688"
+      },
+      {
+        "imageSrc": "/img/z008-t.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED C",
+        "productPrice": "3.50 AZN",
+        "count": "70",
+        "getId": "KWX9152"
+      }
+    ]
+  },
+  {
+    "id": 1741013012037,
+    "card": [
+      {
+        "imageSrc": "/img/mh19.jpg",
+        "productName": "BASLIQ PD 25W APPLE MH19",
+        "productPrice": "5.50 AZN",
+        "count": "4",
+        "getId": "DTV0272"
+      },
+      {
+        "imageSrc": "/img/mj30.jpg",
+        "productName": "BASLIQ PD 35W APPLE MJ30",
+        "productPrice": "9 AZN",
+        "count": "5",
+        "getId": "HFK1925"
+      },
+      {
+        "imageSrc": "/img/mh32.jpg",
+        "productName": "BASLIQ PD 20W APPLE MH32",
+        "productPrice": "9.50 AZN",
+        "count": "2",
+        "getId": "SDP8316"
+      },
+      {
+        "imageSrc": "/img/mj35.jpg",
+        "productName": "BASLIQ PD 35W APPLE MJ35",
+        "productPrice": "15 AZN",
+        "count": 1,
+        "getId": "OAA6885"
+      },
+      {
+        "imageSrc": "/img/m33.jpg",
+        "productName": "BASLIQ USB 67W MI M33 TURBO",
+        "productPrice": "7 AZN",
+        "count": 1,
+        "getId": "FWY1138"
+      },
+      {
+        "imageSrc": "/img/jb047.png",
+        "productName": "BASLIQ USB 3A JOKADE JB047/JB021",
+        "productPrice": "2.50 AZN",
+        "count": 1,
+        "getId": "HTB3631"
+      },
+      {
+        "imageSrc": "/img/nord-buds.jpg",
+        "productName": "TWS NORD BUDS GREEN",
+        "productPrice": "12 AZN",
+        "count": "3",
+        "getId": "DDV1811"
+      },
+      {
+        "imageSrc": "/img/buds-x.jpg",
+        "productName": "TWS BUDS-X SILVER",
+        "productPrice": "11 AZN",
+        "count": "5",
+        "getId": "CLD2094"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLUE",
+        "productPrice": "4 AZN",
+        "count": "6",
+        "getId": "EYD4213"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 RED",
+        "productPrice": "8 AZN",
+        "count": "2",
+        "getId": "JBQ7373"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 SILVER",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "CNO7349"
+      }
+    ]
+  },
+  {
+    "id": 1741013166574,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-usb-2gb.png",
+        "productName": "YADDAS USB 2GB EUROACS",
+        "productPrice": "4.80 AZN",
+        "count": "5",
+        "getId": "JVI0142"
+      }
+    ]
+  },
+  {
+    "id": 1741013325710,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-mikro-8gb.jpg",
+        "productName": "YADDAS MIKRO 8GB EUROACS",
+        "productPrice": "5.20 AZN",
+        "count": "5",
+        "getId": "MVE7833"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-16gb.jpg",
+        "productName": "YADDAS MIKRO 16GB EUROACS",
+        "productPrice": "6.50 AZN",
+        "count": "5",
+        "getId": "KTT1884"
+      }
+    ]
+  },
+  {
+    "id": 1741013362091,
+    "card": [
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "5 AZN",
+        "count": "5",
+        "getId": "HPC9827"
+      },
+      {
+        "imageSrc": "/img/gts-1839.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1839 5W 3'",
+        "productPrice": "11 AZN",
+        "count": "5",
+        "getId": "MIX1664"
+      },
+      {
+        "imageSrc": "/img/gts-1820.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1820 5W MINI",
+        "productPrice": "10 AZN",
+        "count": "5",
+        "getId": "MUB1977"
+      },
+      {
+        "imageSrc": "/img/gts-2072.jpg",
+        "productName": "SESGUCLENDIRICI GTS-2072 5W",
+        "productPrice": "10.50 AZN",
+        "count": "5",
+        "getId": "WNY4625"
+      }
+    ]
+  },
+  {
+    "id": 1741013467761,
+    "card": [
+      {
+        "imageSrc": "/img/holder-telefon.jpeg",
+        "productName": "HOLDER DISPLAY TELEFON BLACK",
+        "productPrice": "1 AZN",
+        "count": 1,
+        "getId": "FZJ7013"
+      }
+    ]
+  },
+  {
+    "id": 1741013504584,
+    "card": [
+      {
+        "imageSrc": "/img/mos-015u.jpg",
+        "productName": "MOUSE WIRED MIKUSO MOS-015U",
+        "productPrice": "2.20 AZN",
+        "count": 1,
+        "getId": "VTB4572"
+      }
+    ]
+  },
+  {
+    "id": 1741014658203,
+    "card": [
+      {
+        "imageSrc": "/img/mh15.jpg",
+        "productName": "BASLIQ PD 20W APPLE MH15",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "OBO3103"
+      },
+      {
+        "imageSrc": "/img/mj30.jpg",
+        "productName": "BASLIQ PD 35W APPLE MJ30",
+        "productPrice": "9 AZN",
+        "count": "4",
+        "getId": "EJV7096"
+      }
+    ]
+  },
+  {
+    "id": 1741014748138,
+    "card": [
+      {
+        "imageSrc": "/img/jb048-m.png",
+        "productName": "CHARGER USB JOKADE JB048 M",
+        "productPrice": "2.20 AZN",
+        "count": "6",
+        "getId": "VHQ1706"
+      },
+      {
+        "imageSrc": "/img/jb048-c.png",
+        "productName": "CHARGER USB JOKADE JB048 C",
+        "productPrice": "2.50 AZN",
+        "count": "7",
+        "getId": "IGU9139"
+      },
+      {
+        "imageSrc": "/img/ma320-c.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MA320 C",
+        "productPrice": "8 AZN",
+        "count": "5",
+        "getId": "LBU3928"
+      }
+    ]
+  },
+  {
+    "id": 1741015471743,
+    "card": [
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "5 AZN",
+        "count": "5",
+        "getId": "LMB7909"
+      },
+      {
+        "imageSrc": "/img/gts-1839.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1839 5W 3'",
+        "productPrice": "11 AZN",
+        "count": "5",
+        "getId": "BHM1104"
+      }
+    ]
+  },
+  {
+    "id": 1741015555809,
+    "card": [
+      {
+        "imageSrc": "/img/gts-1839.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1839 5W 3'",
+        "productPrice": "11 AZN",
+        "count": 1,
+        "getId": "BHM1104"
+      }
+    ]
+  },
+  {
+    "id": 1741029318190,
+    "card": [
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "5 AZN",
+        "count": 1,
+        "getId": "PYE1368"
+      },
+      {
+        "imageSrc": "/img/gts-1839.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1839 5W 3'",
+        "productPrice": "11 AZN",
+        "count": "10",
+        "getId": "VMQ9280"
+      },
+      {
+        "imageSrc": "/img/gts-1820.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1820 5W MINI",
+        "productPrice": "10 AZN",
+        "count": "4",
+        "getId": "BHL4423"
+      },
+      {
+        "imageSrc": "/img/gts-2072.jpg",
+        "productName": "SESGUCLENDIRICI GTS-2072 5W",
+        "productPrice": "10.50 AZN",
+        "count": "3",
+        "getId": "XUC9390"
+      },
+      {
+        "imageSrc": "/img/fn-s30.jpg",
+        "productName": "SESGUCLENDIRICI FONI FN-S30 BLACK",
+        "productPrice": "8.50 AZN",
+        "count": "5",
+        "getId": "TVR4131"
+      },
+      {
+        "imageSrc": "/img/gts-1173.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1173 5W 3' BLACK",
+        "productPrice": "7.50 AZN",
+        "count": "4",
+        "getId": "CMQ1371"
+      },
+      {
+        "imageSrc": "/img/zqs1328.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1328 5W 3' ",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "DFG5884"
+      },
+      {
+        "imageSrc": "/img/zqs1461.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1461 8W 4' BLACK",
+        "productPrice": "9.50 AZN",
+        "count": "3",
+        "getId": "SMT5436"
+      },
+      {
+        "imageSrc": "/img/zqs1455.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1455 8W 4' ",
+        "productPrice": "16 AZN",
+        "count": "4",
+        "getId": "VJP7377"
+      }
+    ]
+  },
+  {
+    "id": 1741071959306,
+    "card": []
+  },
+  {
+    "id": 1741072239663,
+    "card": [
+      {
+        "imageSrc": "/img/mi-turbo.jpg",
+        "productName": "CABLE USB MI TURBO",
+        "productPrice": "3 AZN",
+        "count": "3",
+        "getId": "YRS8002"
+      }
+    ]
+  },
+  {
+    "id": 1741077793595,
+    "card": [
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "5",
+        "getId": "HXE4686"
+      }
+    ]
+  },
+  {
+    "id": 1741078767740,
+    "card": [
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "5 AZN",
+        "count": "4",
+        "getId": "USQ4007"
+      }
+    ]
+  },
+  {
+    "id": 1741079703535,
+    "card": [
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "5",
+        "getId": "ESK8841"
+      },
+      {
+        "imageSrc": "/img/a1938.jpeg",
+        "productName": "TWS AIRPODS-2 A1938 ",
+        "productPrice": "12 AZN",
+        "count": "4",
+        "getId": "TPI4239"
+      }
+    ]
+  },
+  {
+    "id": 1741082495876,
+    "card": [
+      {
+        "imageSrc": "/img/jb048-c.png",
+        "productName": "CHARGER USB JOKADE JB048 C",
+        "productPrice": "2.50 AZN",
+        "count": "",
+        "getId": "CKO6171"
+      }
+    ]
+  },
+  {
+    "id": 1741090825887,
+    "card": [
+      {
+        "imageSrc": "/img/holder-telefon.jpeg",
+        "productName": "HOLDER DISPLAY TELEFON BLACK",
+        "productPrice": "1 AZN",
+        "count": "5",
+        "getId": "HSY0726"
+      },
+      {
+        "imageSrc": "/img/t11.jpeg",
+        "productName": "HOLDER DESKTOP BLACK T11",
+        "productPrice": "3.50 AZN",
+        "count": "5",
+        "getId": "QZP5426"
+      }
+    ]
+  },
+  {
+    "id": 1741094120181,
+    "card": [
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLACK",
+        "productPrice": "4 AZN",
+        "count": "3",
+        "getId": "XNY6157"
+      }
+    ]
+  },
+  {
+    "id": 1741183853590,
+    "card": [
+      {
+        "imageSrc": "/img/z087-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z087C L",
+        "productPrice": "2.50 AZN",
+        "count": "10",
+        "getId": "UIX5597"
+      },
+      {
+        "imageSrc": "/img/z087-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Z087C C",
+        "productPrice": "2 AZN",
+        "count": "10",
+        "getId": "DXS1499"
+      }
+    ]
+  },
+  {
+    "id": 1741249598850,
+    "card": [
+      {
+        "imageSrc": "/img/ja043-m.png",
+        "productName": "CABLE USB JOKADE JA043 M",
+        "productPrice": "0.60 AZN",
+        "count": "20",
+        "getId": "OGC2858"
+      },
+      {
+        "imageSrc": "/img/z008-t.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED C",
+        "productPrice": "3.50 AZN",
+        "count": "5",
+        "getId": "SSF1633"
+      }
+    ]
+  },
+  {
+    "id": 1741252904352,
+    "card": [
+      {
+        "imageSrc": "/img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": "10",
+        "getId": "QBE5208"
+      },
+      {
+        "imageSrc": "/img/car-x8.jpg",
+        "productName": "FM CAR BT X8 3174",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "THP4096"
+      },
+      {
+        "imageSrc": "/img/car-m32.jpg",
+        "productName": "FM CAR BT M32",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "EBQ1365"
+      },
+      {
+        "imageSrc": "/img/fn-m25.jpg",
+        "productName": "FM BT FONI FN-M25 REMOTE",
+        "productPrice": "6.50 AZN",
+        "count": "2",
+        "getId": "YAS7984"
+      },
+      {
+        "imageSrc": "/img/ja043-c.png",
+        "productName": "CABLE USB JOKADE JA043 C",
+        "productPrice": "0.70 AZN",
+        "count": "20",
+        "getId": "WPT1223"
+      },
+      {
+        "imageSrc": "/img/y11-t.png",
+        "productName": "CABLE USB EUROACS EU-Y11 C WH",
+        "productPrice": "1.30 AZN",
+        "count": "10",
+        "getId": "RUG5307"
+      },
+      {
+        "imageSrc": "/img/z125-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Z125 100W C",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "IAY4349"
+      },
+      {
+        "imageSrc": "/img/a2-pro.jpeg",
+        "productName": "TWS A2 PRO WITH DISPLAY ",
+        "productPrice": "20 AZN",
+        "count": "2",
+        "getId": "QGR8884"
+      },
+      {
+        "imageSrc": "/img/anc+enc.jpg",
+        "productName": "TWS AIRPODS ANC+ENC PRO 2 WITH DISPLAY ",
+        "productPrice": "22 AZN",
+        "count": "2",
+        "getId": "KGN0042"
+      },
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "2",
+        "getId": "SAF2274"
+      },
+      {
+        "imageSrc": "/img/eu-m17.jpg",
+        "productName": "MOUSE WIRED EUROACS EU-M17 SILENT",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "IYK0105"
+      },
+      {
+        "imageSrc": "/img/mos-015u.jpg",
+        "productName": "MOUSE WIRED MIKUSO MOS-015U",
+        "productPrice": "2.20 AZN",
+        "count": "2",
+        "getId": "EYI5303"
+      }
+    ]
+  },
+  {
+    "id": 1741272468008,
+    "card": [
+      {
+        "imageSrc": "/img/ksc-1084.jpg",
+        "productName": "POWERBANK 10000 KAKU KSC-1084",
+        "productPrice": "9.50 AZN",
+        "count": "5",
+        "getId": "MFB4491"
+      },
+      {
+        "imageSrc": "/img/jg005.jpg",
+        "productName": "POWERBANK 10000 JOKADE JG005",
+        "productPrice": "12 AZN",
+        "count": "5",
+        "getId": "TZF7360"
+      }
+    ]
+  },
+  {
+    "id": 1741342175912,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-usb-2gb.png",
+        "productName": "YADDAS USB 2GB EUROACS",
+        "productPrice": "4.80 AZN",
+        "count": "1",
+        "getId": "DUP7073"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-4gb.png",
+        "productName": "YADDAS USB 4GB EUROACS",
+        "productPrice": "5.20 AZN",
+        "count": "1",
+        "getId": "MGI7333"
+      }
+    ]
+  },
+  {
+    "id": 1741343032384,
+    "card": [
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "3",
+        "getId": "RUE7151"
+      }
+    ]
+  },
+  {
+    "id": 1741352118841,
+    "card": []
+  },
+  {
+    "id": 1741352416203,
+    "card": []
+  },
+  {
+    "id": 1741429461248,
+    "card": []
+  },
+  {
+    "id": 1741511268949,
+    "card": [
+      {
+        "imageSrc": "/img/anc+enc.jpg",
+        "productName": "TWS AIRPODS ANC+ENC PRO 2 WITH DISPLAY ",
+        "productPrice": "22 AZN",
+        "count": "5",
+        "getId": "IXL4504"
+      }
+    ]
+  },
+  {
+    "id": 1741598972847,
+    "card": [
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 11/IPH XR",
+        "productPrice": "1.4 AZN",
+        "count": "4",
+        "getId": "VOV3346"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 13 PRO MAX",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "JIJ6853"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 14",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "QPB0143"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 14 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "ZZI5127"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 14 PRO MAX",
+        "productPrice": "1.4 AZN",
+        "count": "3",
+        "getId": "JDX9696"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 15 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "KKY1061"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 15 PRO MAX",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "PCG7173"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 16 PRO",
+        "productPrice": "2 AZN",
+        "count": "4",
+        "getId": "JHN6770"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 16 PRO MAX",
+        "productPrice": "2 AZN",
+        "count": "4",
+        "getId": "HMD8229"
+      }
+    ]
+  },
+  {
+    "id": 1741620365156,
+    "card": []
+  },
+  {
+    "id": 1741620879744,
+    "card": []
+  },
+  {
+    "id": 1741621023577,
+    "card": [
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "5",
+        "getId": "KJT5493"
+      },
+      {
+        "imageSrc": "/img/a1938.jpeg",
+        "productName": "TWS AIRPODS-2 A1938 ",
+        "productPrice": "12 AZN",
+        "count": "5",
+        "getId": "NGI5447"
+      }
+    ]
+  },
+  {
+    "id": 1741621075961,
+    "card": [
+      {
+        "imageSrc": "/img/eu-p354.jpg",
+        "productName": "OTURUCU L TO L-IN+AUX-IN EUROACS EU-P354",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "JKG4420"
+      },
+      {
+        "imageSrc": "/img/eu-p357.jpg",
+        "productName": "OTURUCU C TO C-IN+AUX-IN EUROACS EU-P357",
+        "productPrice": "6 AZN",
+        "count": "3",
+        "getId": "UQR2811"
+      }
+    ]
+  },
+  {
+    "id": 1741621300973,
+    "card": []
+  },
+  {
+    "id": 1741621506444,
+    "card": [
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "5",
+        "getId": "GAV1755"
+      },
+      {
+        "imageSrc": "/img/a1938.jpeg",
+        "productName": "TWS AIRPODS-2 A1938 ",
+        "productPrice": "12 AZN",
+        "count": "3",
+        "getId": "SWS4120"
+      }
+    ]
+  },
+  {
+    "id": 1741621532828,
+    "card": [
+      {
+        "imageSrc": "/img/a2-pro.jpeg",
+        "productName": "TWS A2 PRO WITH DISPLAY ",
+        "productPrice": "20 AZN",
+        "count": "5",
+        "getId": "COJ9202"
+      }
+    ]
+  },
+  {
+    "id": 1741621601723,
+    "card": [
+      {
+        "imageSrc": "/img/holder-telefon.jpeg",
+        "productName": "HOLDER DISPLAY TELEFON BLACK",
+        "productPrice": "1 AZN",
+        "count": 1,
+        "getId": "TUB1709"
+      }
+    ]
+  },
+  {
+    "id": 1741621657701,
+    "card": [
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "5 AZN",
+        "count": "3",
+        "getId": "YJC0333"
+      },
+      {
+        "imageSrc": "/img/gts-1820.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1820 5W MINI",
+        "productPrice": "10 AZN",
+        "count": "2",
+        "getId": "VJS7859"
+      },
+      {
+        "imageSrc": "/img/gts-2072.jpg",
+        "productName": "SESGUCLENDIRICI GTS-2072 5W",
+        "productPrice": "10.50 AZN",
+        "count": "1",
+        "getId": "SPK4190"
+      },
+      {
+        "imageSrc": "/img/fn-s30.jpg",
+        "productName": "SESGUCLENDIRICI FONI FN-S30 BLACK",
+        "productPrice": "8.50 AZN",
+        "count": "1",
+        "getId": "VRJ6651"
+      },
+      {
+        "imageSrc": "/img/zqs1328.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1328 5W 3' ",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "EQI6000"
+      },
+      {
+        "imageSrc": "/img/zqs1461.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1461 8W 4' BLACK",
+        "productPrice": "9.50 AZN",
+        "count": "1",
+        "getId": "PQR8225"
+      },
+      {
+        "imageSrc": "/img/zqs1455.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1455 8W 4' ",
+        "productPrice": "16 AZN",
+        "count": "1",
+        "getId": "TQY1574"
+      },
+      {
+        "imageSrc": "/img/y11-t.png",
+        "productName": "CABLE USB EUROACS EU-Y11 C WH",
+        "productPrice": "1.30 AZN",
+        "count": "20",
+        "getId": "ZOU1172"
+      },
+      {
+        "imageSrc": "/img/y11-l.png",
+        "productName": "CABLE USB EUROACS EU-Y11 L WH",
+        "productPrice": "1.30 AZN",
+        "count": "20",
+        "getId": "BVF8840"
+      },
+      {
+        "imageSrc": "/img/y11-usb-to-mikro.png",
+        "productName": "CABLE USB EUROACS EU-Y11 M WH",
+        "productPrice": "1 AZN",
+        "count": "20",
+        "getId": "ZJM5913"
+      },
+      {
+        "imageSrc": "/img/jc-004.jpg",
+        "productName": "OTURUCU С TO OTG JOKADE JC004",
+        "productPrice": "1.60 AZN",
+        "count": "5",
+        "getId": "JAF2814"
+      },
+      {
+        "imageSrc": "/img/ky-167.jpg",
+        "productName": "OTURUCU C TO OTG KY167",
+        "productPrice": "1.50 AZN",
+        "count": "5",
+        "getId": "LGA2598"
+      }
+    ]
+  },
+  {
+    "id": 1741665778230,
+    "card": [
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S24 FE",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "RJN1328"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S24 FE QUTULU",
+        "productPrice": "3.5 AZN",
+        "count": "1",
+        "getId": "TEN3105"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S24 PLUS",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "RDW5146"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S24 ULTRA",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "LZW2499"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "KILIF PC 1793/A SHEFFAF MAGSAFE SAM S25",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "JMV5131"
+      }
+    ]
+  },
+  {
+    "id": 1741676342026,
+    "card": [
+      {
+        "imageSrc": "/img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": "5",
+        "getId": "VVY0212"
+      }
+    ]
+  },
+  {
+    "id": 1741773889276,
+    "card": [
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 14  ",
+        "productPrice": "1.7 AZN",
+        "count": "3",
+        "getId": "RQL9218"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 14 PRO  ",
+        "productPrice": "1.7 AZN",
+        "count": "3",
+        "getId": "VYE2612"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 15 PRO  ",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "CDQ7051"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 16 PRO",
+        "productPrice": "2 AZN",
+        "count": "3",
+        "getId": "EXI7577"
+      }
+    ]
+  },
+  {
+    "id": 1741775702691,
+    "card": [
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 IPH 11 PRO MAX",
+        "productPrice": "1 AZN",
+        "count": "5",
+        "getId": "GJC4086"
+      }
+    ]
+  },
+  {
+    "id": 1741795418890,
+    "card": []
+  },
+  {
+    "id": 1741797576268,
+    "card": [
+      {
+        "imageSrc": "/img/mg545-c.png",
+        "productName": "CHARGER USB QC EUROACS ECH-MG545 C",
+        "productPrice": "5.50 AZN",
+        "count": "5",
+        "getId": "JMU1137"
+      },
+      {
+        "imageSrc": "/img/jb048-c.png",
+        "productName": "CHARGER USB JOKADE JB048 C",
+        "productPrice": "2.50 AZN",
+        "count": "100",
+        "getId": "XXN6128"
+      },
+      {
+        "imageSrc": "/img/mg544-c.png",
+        "productName": "CHARGER USB QC4.0 EUROACS EU-MG644 TF C",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "SUT7487"
+      }
+    ]
+  },
+  {
+    "id": 1741797774986,
+    "card": [
+      {
+        "imageSrc": "/img/eu-p354.jpg",
+        "productName": "OTURUCU L TO L-IN+AUX-IN EUROACS EU-P354",
+        "productPrice": "6 AZN",
+        "count": "3",
+        "getId": "JYE2945"
+      },
+      {
+        "imageSrc": "/img/p372.jpg",
+        "productName": "OTURUCU L TO AUX EUROACS EU-P372",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "VJX9488"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD HONOR 10 LITE",
+        "productPrice": "0.9 AZN",
+        "count": "3",
+        "getId": "HNS3145"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD HONOR 8S",
+        "productPrice": "0.9 AZN",
+        "count": "2",
+        "getId": "NZV2317"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD HONOR 8X",
+        "productPrice": "0.9 AZN",
+        "count": "5",
+        "getId": "YRP4277"
+      }
+    ]
+  },
+  {
+    "id": 1741853102792,
+    "card": [
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 11",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "CFZ0350"
+      }
+    ]
+  },
+  {
+    "id": 1741956201062,
+    "card": [
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 11",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "ROA4924"
+      },
+      {
+        "imageSrc": "/img/ta0771-white.jpg",
+        "productName": "BASLIQ PD 25W SAMSUNG TA0771 WHITE",
+        "productPrice": "3.70 AZN",
+        "count": "6",
+        "getId": "MDA9294"
+      }
+    ]
+  },
+  {
+    "id": 1741969775963,
+    "card": []
+  },
+  {
+    "id": 1741969849937,
+    "card": [
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 12 PRO MAX",
+        "productPrice": "3 AZN",
+        "count": "3",
+        "getId": "LCE3990"
+      }
+    ]
+  },
+  {
+    "id": 1742038550742,
+    "card": [
+      {
+        "imageSrc": "/img/a801.jpg",
+        "productName": "CHARGER PD 20W ASPOR A801 L ",
+        "productPrice": "3.57 AZN",
+        "count": "4",
+        "getId": "BLE9592"
+      },
+      {
+        "imageSrc": "/img/basliq-mx24.jpg",
+        "productName": "BASLIQ USB 2.4A MOXOM MX24 2USB ACIQDA",
+        "productPrice": "1.96 AZN",
+        "count": "5",
+        "getId": "VQA4651"
+      },
+      {
+        "imageSrc": "/img/fn06.jpg",
+        "productName": "BASLIQ PD 20W FONI FN06 QC ",
+        "productPrice": "3.50 AZN",
+        "count": "4",
+        "getId": "PRZ0092"
+      },
+      {
+        "imageSrc": "/img/a901.jpg",
+        "productName": "CAR BASLIQ QC ASPOR A901",
+        "productPrice": "2.31 AZN",
+        "count": "5",
+        "getId": "UDV1947"
+      },
+      {
+        "imageSrc": "/img/a906.jpg",
+        "productName": "CAR BASLIQ PD ASPOR A906",
+        "productPrice": "2.94 AZN",
+        "count": "5",
+        "getId": "CCP7368"
+      },
+      {
+        "imageSrc": "/img/wh1000xm5.jpg",
+        "productName": "HF BIG BT SONY WH1000XM5",
+        "productPrice": "10.50 AZN",
+        "count": "2",
+        "getId": "GNG3306"
+      },
+      {
+        "imageSrc": "/img/tune-510.jpg",
+        "productName": "HF BIG BT JBL TUNE 510",
+        "productPrice": "8.40 AZN",
+        "count": "7",
+        "getId": "OUJ4611"
+      },
+      {
+        "imageSrc": "/img/msl-710.jpg",
+        "productName": "HF BIG BT JBL MSL-710",
+        "productPrice": "8.40 AZN",
+        "count": "3",
+        "getId": "WFI9270"
+      },
+      {
+        "imageSrc": "/img/bt-p4.jpg",
+        "productName": "FM CAR BT P4 QC",
+        "productPrice": "4.90 AZN",
+        "count": "4",
+        "getId": "ZDV7986"
+      },
+      {
+        "imageSrc": "/img/bt-p13.jpg",
+        "productName": "FM CAR BT P13 QC",
+        "productPrice": "4.90 AZN",
+        "count": "4",
+        "getId": "VQG6587"
+      }
+    ]
+  },
+  {
+    "id": 1742122823359,
+    "card": [
+      {
+        "imageSrc": "/img/HS55.jpg",
+        "productName": "HF WIRED C SOUNDER HS55 ",
+        "productPrice": "1.96 AZN",
+        "count": 1,
+        "getId": "LAM3021"
+      }
+    ]
+  },
+  {
+    "id": 1742187723401,
+    "card": [
+      {
+        "imageSrc": "/img/FN-TW3.jpg",
+        "productName": "TWS FONI FN-TW3",
+        "productPrice": "16.50 AZN",
+        "count": 1,
+        "getId": "NFN7503"
+      },
+      {
+        "imageSrc": "/img/dh1208.jpg",
+        "productName": "SESGUCLENDIRICI DH1208 3W",
+        "productPrice": "7 AZN",
+        "count": "2",
+        "getId": "XHE1248"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 LIGHTNING",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "QMS0356"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 MIKRO",
+        "productPrice": "1.80 AZN",
+        "count": "5",
+        "getId": "LPD8357"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 TYPE-C",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "IVE2503"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 LIGHTNING",
+        "productPrice": "2.20 AZN",
+        "count": "5",
+        "getId": "WAV4532"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 MIKRO",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "WGQ0208"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 TYPE-C",
+        "productPrice": "2.20 AZN",
+        "count": "5",
+        "getId": "NDW3384"
+      },
+      {
+        "imageSrc": "/img/tune-510.jpg",
+        "productName": "HF BIG BT JBL TUNE 510",
+        "productPrice": "12 AZN",
+        "count": "2",
+        "getId": "DOV3905"
+      },
+      {
+        "imageSrc": "/img/BT-H42.jpg",
+        "productName": "FM CAR BT H42",
+        "productPrice": "13.50 AZN",
+        "count": "2",
+        "getId": "HJS6473"
+      },
+      {
+        "imageSrc": "/img/pd20w-13promax.jpg",
+        "productName": "BASLIQ PD 20W APPLE 13PRO MAX WHITE",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "XIV4997"
+      }
+    ]
+  },
+  {
+    "id": 1742202586889,
+    "card": [
+      {
+        "imageSrc": "/img/basliq-mx24.jpg",
+        "productName": "BASLIQ USB 2.4A MOXOM MX24 2USB ACIQDA",
+        "productPrice": "1.96 AZN",
+        "count": "5",
+        "getId": "ZMQ3752"
+      },
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "IRQ7233"
+      },
+      {
+        "imageSrc": "/img/MATE60.jpg",
+        "productName": "TWS MATE60 ANC+ENC BLACK",
+        "productPrice": "14.00 AZN",
+        "count": "2",
+        "getId": "FDT8038"
+      },
+      {
+        "imageSrc": "/img/msl-710.jpg",
+        "productName": "HF BIG BT JBL MSL-710",
+        "productPrice": "8.40 AZN",
+        "count": "2",
+        "getId": "WCZ7544"
+      },
+      {
+        "imageSrc": "/img/760bt.jpg",
+        "productName": "HF BIG JBL 760BT ANC BLACK ",
+        "productPrice": "17.50 AZN",
+        "count": "2",
+        "getId": "SWC5506"
+      }
+    ]
+  },
+  {
+    "id": 1742478075191,
+    "card": [
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 IPH 11/IPH XR",
+        "productPrice": "1 AZN",
+        "count": "3",
+        "getId": "JMN0895"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 IPH 11 PRO MAX",
+        "productPrice": "1 AZN",
+        "count": "4",
+        "getId": "OZT8618"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 IPH 11 PRO/X/XS",
+        "productPrice": "1 AZN",
+        "count": "1",
+        "getId": "VBT1140"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 IPH 13/13 PRO",
+        "productPrice": "1 AZN",
+        "count": "3",
+        "getId": "JRY8173"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 HONOR X6B",
+        "productPrice": "1 AZN",
+        "count": "3",
+        "getId": "RKN7328"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 SAM A05",
+        "productPrice": "1 AZN",
+        "count": "3",
+        "getId": "ZRY3511"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 SAM A12",
+        "productPrice": "1 AZN",
+        "count": "3",
+        "getId": "CHI1928"
+      },
+      {
+        "imageSrc": "/img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": "10",
+        "getId": "ANS2143"
+      },
+      {
+        "imageSrc": "/img/HS55.jpg",
+        "productName": "HF WIRED C SOUNDER HS55 ",
+        "productPrice": "1.96 AZN",
+        "count": "5",
+        "getId": "ATO1381"
+      },
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "3.50 AZN",
+        "count": "5",
+        "getId": "XPK7263"
+      }
+    ]
+  },
+  {
+    "id": 1742759646276,
+    "card": [
+      {
+        "imageSrc": "/img/mi-turbo.jpg",
+        "productName": "CABLE USB MI TURBO",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "YET8020"
+      },
+      {
+        "imageSrc": "/img/ja043-c.png",
+        "productName": "CABLE USB JOKADE JA043 C",
+        "productPrice": "0.70 AZN",
+        "count": "5",
+        "getId": "BFY3689"
+      },
+      {
+        "imageSrc": "/img/HS66.jpg",
+        "productName": "HF WIRED C SOUNDER HS66 ",
+        "productPrice": "1.40 AZN",
+        "count": "5",
+        "getId": "QZQ6563"
+      },
+      {
+        "imageSrc": "/img/HS55.jpg",
+        "productName": "HF WIRED C SOUNDER HS55 ",
+        "productPrice": "1.96 AZN",
+        "count": "3",
+        "getId": "LNY5885"
+      },
+      {
+        "imageSrc": "/img/HS33.jpg",
+        "productName": "HF WIRED C SOUNDER HS33 BLACK",
+        "productPrice": "1.96 AZN",
+        "count": "3",
+        "getId": "BWZ4894"
+      },
+      {
+        "imageSrc": "/img/jne08.jpg",
+        "productName": "TWS JNE08 WHITE",
+        "productPrice": "10.15 AZN",
+        "count": "1",
+        "getId": "DQG7628"
+      },
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "AEH5225"
+      }
+    ]
+  },
+  {
+    "id": 1742894783306,
+    "card": [
+      {
+        "imageSrc": "/img/y11-t.png",
+        "productName": "CABLE USB EUROACS EU-Y11 C WH",
+        "productPrice": "1.30 AZN",
+        "count": "10",
+        "getId": "HYZ6530"
+      },
+      {
+        "imageSrc": "/img/z112-c.png",
+        "productName": "CABLE USB EUROACS EU-Z112A C",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "IBB3119"
+      }
+    ]
+  },
+  {
+    "id": 1743026435856,
+    "card": [
+      {
+        "imageSrc": "/img/fn06.jpg",
+        "productName": "BASLIQ PD 20W FONI FN06 QC ",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "XGO2691"
+      },
+      {
+        "imageSrc": "/img/a801.jpg",
+        "productName": "CHARGER PD 20W ASPOR A801 L ",
+        "productPrice": "3.57 AZN",
+        "count": "5",
+        "getId": "LFM4927"
+      },
+      {
+        "imageSrc": "/img/basliq-mx24.jpg",
+        "productName": "BASLIQ USB 2.4A MOXOM MX24 2USB ACIQDA",
+        "productPrice": "1.96 AZN",
+        "count": "5",
+        "getId": "TCF9182"
+      },
+      {
+        "imageSrc": "/img/gpl-50.jpg",
+        "productName": "BASLIQ USB 30W GUVENPIL GPL-50 TF",
+        "productPrice": "5.60 AZN",
+        "count": "3",
+        "getId": "ZEV6188"
+      },
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "TYJ8922"
+      },
+      {
+        "imageSrc": "/img/FN-TW3.jpg",
+        "productName": "TWS FONI FN-TW3",
+        "productPrice": "11.55 AZN",
+        "count": "1",
+        "getId": "NVS4103"
+      },
+      {
+        "imageSrc": "/img/jne08.jpg",
+        "productName": "TWS JNE08 BLACK",
+        "productPrice": "10.15 AZN",
+        "count": "1",
+        "getId": "YCP8386"
+      },
+      {
+        "imageSrc": "/img/dh1208.jpg",
+        "productName": "SESGUCLENDIRICI DH1208 3W",
+        "productPrice": "4.90 AZN",
+        "count": "1",
+        "getId": "SOF0355"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 LIGHTNING",
+        "productPrice": "1.40 AZN",
+        "count": "3",
+        "getId": "UEE3614"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 MIKRO",
+        "productPrice": "1.26 AZN",
+        "count": "5",
+        "getId": "DUJ0222"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 TYPE-C",
+        "productPrice": "1.40 AZN",
+        "count": "5",
+        "getId": "EEH9011"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 LIGHTNING",
+        "productPrice": "1.54 AZN",
+        "count": "3",
+        "getId": "JCG6403"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 MIKRO",
+        "productPrice": "1.40 AZN",
+        "count": "3",
+        "getId": "CUD7401"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 TYPE-C",
+        "productPrice": "1.54 AZN",
+        "count": "3",
+        "getId": "EHM3394"
+      },
+      {
+        "imageSrc": "/img/bt-p1-pd.jpg",
+        "productName": "FM CAR BT P1 PD ",
+        "productPrice": "6.65 AZN",
+        "count": "1",
+        "getId": "KMT0931"
+      },
+      {
+        "imageSrc": "/img/ft215.jpg",
+        "productName": "BASLIQ PD 45W FONI FT215 USB TF+SF",
+        "productPrice": "4.90 AZN",
+        "count": "3",
+        "getId": "ADY0486"
+      },
+      {
+        "imageSrc": "/img/pd20w-13promax.jpg",
+        "productName": "BASLIQ PD 20W APPLE 13PRO MAX WHITE",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "WDO0692"
+      },
+      {
+        "imageSrc": "/img/ft212.jpg",
+        "productName": "BASLIQ PD 35W FONI FT212 USB TF+SF WH",
+        "productPrice": "4.20 AZN",
+        "count": "2",
+        "getId": "OVX7467"
+      }
+    ]
+  },
+  {
+    "id": 1743170564357,
+    "card": [
+      {
+        "imageSrc": "/img/HS55.jpg",
+        "productName": "HF WIRED C SOUNDER HS55 ",
+        "productPrice": "1.96 AZN",
+        "count": "2",
+        "getId": "ZTK3029"
+      },
+      {
+        "imageSrc": "/img/HS66.jpg",
+        "productName": "HF WIRED C SOUNDER HS66 ",
+        "productPrice": "1.40 AZN",
+        "count": "2",
+        "getId": "TOU2194"
+      },
+      {
+        "imageSrc": "/img/sounder-j88.jpg",
+        "productName": "HF 3.5MM SOUNDER J88 BLACK",
+        "productPrice": "1.12 AZN",
+        "count": "3",
+        "getId": "QHJ0022"
+      },
+      {
+        "imageSrc": "/img/sounder-j55.jpg",
+        "productName": "HF 3.5MM SOUNDER J55 GREY",
+        "productPrice": "1.12 AZN",
+        "count": "3",
+        "getId": "VXY3760"
+      },
+      {
+        "imageSrc": "/img/a801.jpg",
+        "productName": "CHARGER PD 20W ASPOR A801 L ",
+        "productPrice": "3.57 AZN",
+        "count": "2",
+        "getId": "MQX4061"
+      },
+      {
+        "imageSrc": "/img/basliq-mx24.jpg",
+        "productName": "BASLIQ USB 2.4A MOXOM MX24 2USB ACIQDA",
+        "productPrice": "1.96 AZN",
+        "count": "3",
+        "getId": "OWI4524"
+      },
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "MGQ9989"
+      },
+      {
+        "imageSrc": "/img/fn06.jpg",
+        "productName": "BASLIQ PD 20W FONI FN06 QC ",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "POK2941"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 LIGHTNING",
+        "productPrice": "1.40 AZN",
+        "count": "3",
+        "getId": "ZYW9772"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 MIKRO",
+        "productPrice": "1.26 AZN",
+        "count": "3",
+        "getId": "WVK0139"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 TYPE-C",
+        "productPrice": "1.40 AZN",
+        "count": "3",
+        "getId": "ZJN1490"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 LIGHTNING",
+        "productPrice": "1.54 AZN",
+        "count": "3",
+        "getId": "DSD9717"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 MIKRO",
+        "productPrice": "1.40 AZN",
+        "count": "3",
+        "getId": "MIX2143"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 TYPE-C",
+        "productPrice": "1.54 AZN",
+        "count": "3",
+        "getId": "FXI2800"
+      }
+    ]
+  },
+  {
+    "id": 1744040049906,
+    "card": [
+      {
+        "imageSrc": "/img/canta-m21.jpg",
+        "productName": "CANTA COMPUTER 15.6'' M21",
+        "productPrice": "12 AZN",
+        "count": "1",
+        "getId": "EWM1126"
+      }
+    ]
+  },
+  {
+    "id": 1744541634004,
+    "card": [
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD SAM A26",
+        "productPrice": "1.5 AZN",
+        "count": "5",
+        "getId": "HRS2183"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD SAM A36",
+        "productPrice": "1.5 AZN",
+        "count": "5",
+        "getId": "PYR6908"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD SAM A56",
+        "productPrice": "1.5 AZN",
+        "count": "5",
+        "getId": "EGK3480"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 13/13 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "SCR9033"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 11/IPH XR",
+        "productPrice": "1.4 AZN",
+        "count": "3",
+        "getId": "TXX1787"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 12/12 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "2",
+        "getId": "DJQ2474"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 12 PRO MAX",
+        "productPrice": "1.4 AZN",
+        "count": "1",
+        "getId": "RVC7190"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 16 PRO",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "MFO2720"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 11/XR",
+        "productPrice": "1.7 AZN",
+        "count": "3",
+        "getId": "BQK1361"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 15 PRO  ",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "WMM7363"
+      },
+      {
+        "imageSrc": "/img/z008-t.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED C",
+        "productPrice": "3.50 AZN",
+        "count": "5",
+        "getId": "KGH0372"
+      },
+      {
+        "imageSrc": "/img/y11-t.png",
+        "productName": "CABLE USB EUROACS EU-Y11 C WH",
+        "productPrice": "1.30 AZN",
+        "count": "10",
+        "getId": "YIU5675"
+      },
+      {
+        "imageSrc": "/img/md34.jpg",
+        "productName": "CABLE PD APPLE MD34 L",
+        "productPrice": "4.50 AZN",
+        "count": "3",
+        "getId": "BMS7704"
+      }
+    ]
+  },
+  {
+    "id": 1745217293663,
+    "card": []
+  },
+  {
+    "id": 1745325750357,
+    "card": [
+      {
+        "imageSrc": "/img/mh002.jpg",
+        "productName": "CHARGER 20W APPLE MH002 L",
+        "productPrice": "7.50 AZN",
+        "count": "3",
+        "getId": "RMK6250"
+      },
+      {
+        "imageSrc": "/img/samsung-a54.jpg",
+        "productName": "CHARGER PD 25W SAMSUNG A54 C",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "RCG5664"
+      },
+      {
+        "imageSrc": "/img/md22.jpg",
+        "productName": "CABLE PD APPLE MD22 L ",
+        "productPrice": "2.50 AZN",
+        "count": "5",
+        "getId": "ZLR4392"
+      },
+      {
+        "imageSrc": "/img/samsung-a24.jpg",
+        "productName": "CHARGER PD 20W SAMSUNG A24 C ",
+        "productPrice": "5.50 AZN",
+        "count": "5",
+        "getId": "OXH4635"
+      },
+      {
+        "imageSrc": "/img/mdy-185.jpg",
+        "productName": "CHARGER USB QC MI MDY-185 TURBO C",
+        "productPrice": "6 AZN",
+        "count": "3",
+        "getId": "CTS8388"
+      }
+    ]
+  },
+  {
+    "id": 1745930746124,
+    "card": [
+      {
+        "imageSrc": "/img/md22.jpg",
+        "productName": "CABLE PD APPLE MD22 L ",
+        "productPrice": "2.50 AZN",
+        "count": "4",
+        "getId": "SSI5075"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 11 PRO/XS",
+        "productPrice": "1.7 AZN",
+        "count": "2",
+        "getId": "FLK5282"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 11/XR",
+        "productPrice": "1.7 AZN",
+        "count": "2",
+        "getId": "UJW9859"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 12 MINI",
+        "productPrice": "1.7 AZN",
+        "count": "2",
+        "getId": "UCP8576"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 12 PRO MAX",
+        "productPrice": "1.7 AZN",
+        "count": "2",
+        "getId": "BWG9968"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 13 MINI",
+        "productPrice": "1.7 AZN",
+        "count": "2",
+        "getId": "UIW3663"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 13 PRO MAX",
+        "productPrice": "1.7 AZN",
+        "count": "2",
+        "getId": "LKQ5816"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 13/13 PRO",
+        "productPrice": "1.7 AZN",
+        "count": "2",
+        "getId": "SYT3565"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 14 PRO  ",
+        "productPrice": "1.7 AZN",
+        "count": "2",
+        "getId": "SKE1032"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 14 PRO MAX",
+        "productPrice": "1.7 AZN",
+        "count": "2",
+        "getId": "CED0557"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 15  ",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "FVH2772"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 15 PRO  ",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "SJY1461"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 15 PRO MAX",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "TXL4789"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 16 PRO",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "TDM8875"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 SAM A32",
+        "productPrice": "1 AZN",
+        "count": "3",
+        "getId": "EZH3544"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY SAM A20S",
+        "productPrice": "1.4 AZN",
+        "count": "1",
+        "getId": "VHK2595"
+      }
+    ]
+  },
+  {
+    "id": 1746085108092,
+    "card": [
+      {
+        "imageSrc": "/img/saftali-buz.png",
+        "productName": "[Şaftalı buz] EUROACS EU-V30 30 000 tüstü",
+        "productPrice": "25 AZN",
+        "count": "1",
+        "getId": "OXF2170"
+      }
+    ]
+  },
+  {
+    "id": 1746165914973,
+    "card": [
+      {
+        "imageSrc": "/img/FN-HW10.jpg",
+        "productName": "HOLDER DESKTOP FONI FN-HW10 WIRELESS 3IN1",
+        "productPrice": "15 AZN",
+        "count": "2",
+        "getId": "OSG4860"
+      }
+    ]
+  },
+  {
+    "id": 1750021270540,
+    "card": [
+      {
+        "imageSrc": "/img/eu-h302.jpg",
+        "productName": "NECKBAND BT EUROACS EU-H302 ENC",
+        "productPrice": "14.50 AZN",
+        "count": "5",
+        "getId": "XXC9207"
+      }
+    ]
+  },
+  {
+    "id": 1750084969217,
+    "card": [
+      {
+        "imageSrc": "/img/Z023-C.jpg",
+        "productName": "CABLE PD EUROACS EU-Z023 C",
+        "productPrice": "3.50 AZN",
+        "count": "5",
+        "getId": "YYW8084"
+      }
+    ]
+  },
+  {
+    "id": 1750319078364,
+    "card": [
+      {
+        "imageSrc": "/img/jr-pbf12.jpeg",
+        "productName": "POWERBANK 10 000 JOYROOM JR-PBF12",
+        "productPrice": "15 AZN",
+        "count": "2",
+        "getId": "ZJU1396"
+      }
+    ]
+  },
+  {
+    "id": 1750319147448,
+    "card": [
+      {
+        "imageSrc": "/img/jr-pbf12.jpeg",
+        "productName": "POWERBANK 10 000 JOYROOM JR-PBF12",
+        "productPrice": "15 AZN",
+        "count": "1",
+        "getId": "JRP5081"
+      }
+    ]
+  },
+  {
+    "id": 1750319165827,
+    "card": []
+  },
+  {
+    "id": 1750319196417,
+    "card": [
+      {
+        "imageSrc": "/img/jr-pbf12.jpeg",
+        "productName": "POWERBANK 10 000 JOYROOM JR-PBF12",
+        "productPrice": "15 AZN",
+        "count": "1",
+        "getId": "ULK5491"
+      }
+    ]
+  },
+  {
+    "id": 1750453326381,
+    "card": [
+      {
+        "imageSrc": "/img/A1105.jpg",
+        "productName": "TWS AIRPODS PRO A1105",
+        "productPrice": "12 AZN",
+        "count": "2",
+        "getId": "FRS9291"
+      }
+    ]
+  },
+  {
+    "order": {
+      "id": 1750494278439,
+      "card": [
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/saftali-buz.png",
+          "productName": "[Şaftalı manqo qarpız] EUROACS EU-V30 30 000 tüstü",
+          "productPrice": "25 AZN",
+          "count": 1,
+          "getId": "AQY9663"
+        },
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/mavi-moruq.png",
+          "productName": "[Mavi moruq] EUROACS EU-V30 30 000 tüstü",
+          "productPrice": "25 AZN",
+          "count": 1,
+          "getId": "LDJ3298"
+        },
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/MIC-3IN1.jpg",
+          "productName": "MIC WIRELESS 3IN1 F11-2",
+          "productPrice": "28 AZN",
+          "count": 1,
+          "getId": "PNS0512"
+        },
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/BT-M46.jpg",
+          "productName": "FM CAR BT M46",
+          "productPrice": "5.80 AZN",
+          "count": 1,
+          "getId": "AJV4080"
+        }
+      ]
+    },
+    "userConfig": {
+      "shopName": "GIPERAKS 28 MAY",
+      "branch": "28may",
+      "phone": "994504213635"
+    }
+  },
+  {
+    "order": {
+      "id": 1750494809066,
+      "card": [
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/saftali-buz.png",
+          "productName": "[Şaftalı manqo qarpız] EUROACS EU-V30 30 000 tüstü",
+          "productPrice": "25 AZN",
+          "count": 1,
+          "getId": "AQY9663"
+        },
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/mavi-moruq.png",
+          "productName": "[Mavi moruq] EUROACS EU-V30 30 000 tüstü",
+          "productPrice": "25 AZN",
+          "count": 1,
+          "getId": "LDJ3298"
+        },
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/MIC-3IN1.jpg",
+          "productName": "MIC WIRELESS 3IN1 F11-2",
+          "productPrice": "28 AZN",
+          "count": 1,
+          "getId": "PNS0512"
+        },
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/BT-M46.jpg",
+          "productName": "FM CAR BT M46",
+          "productPrice": "5.80 AZN",
+          "count": 1,
+          "getId": "AJV4080"
+        }
+      ]
+    },
+    "userConfig": {
+      "shopName": "GIPERAKS 28 MAY",
+      "branch": "28may",
+      "phone": "994504213635"
+    }
+  },
+  {
+    "order": {
+      "id": 1750495270294,
+      "card": [
+        {
+          "imageSrc": "/img/magsafe-case.png",
+          "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 13 PRO",
+          "productPrice": "3 AZN",
+          "count": 1,
+          "getId": "MJS4937"
+        },
+        {
+          "imageSrc": "/img/magsafe-case.png",
+          "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 11",
+          "productPrice": "3 AZN",
+          "count": 1,
+          "getId": "FUQ7250"
+        },
+        {
+          "imageSrc": "/img/EU-MC249.jpg",
+          "productName": "CAR BASLIQ PD 60W EUROACS EU-MC249 SPRING",
+          "productPrice": "13.50 AZN",
+          "count": 1,
+          "getId": "KIJ2468"
+        },
+        {
+          "imageSrc": "/img/p9lite-white.jpg",
+          "productName": "HF BIG BT P9 SILVER",
+          "productPrice": "6.80 AZN",
+          "count": 1,
+          "getId": "ROH7932"
+        },
+        {
+          "imageSrc": "/img/rkd-570.jpg",
+          "productName": "HF BIG BT RGB RKD-570",
+          "productPrice": "21 AZN",
+          "count": 1,
+          "getId": "LKY1153"
+        },
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/aux-enc016.jpg",
+          "productName": "OTURUCU L TO AUX ENCO16 ",
+          "productPrice": "3 AZN",
+          "count": 1,
+          "getId": "BWX2003"
+        }
+      ]
+    },
+    "userConfig": {
+      "shopName": "GIPERAKS 28 MAY",
+      "branch": "28may",
+      "phone": "994504213635"
+    }
+  },
+  {
+    "order": {
+      "id": 1750495887260,
+      "card": [
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/MIC-3IN1.jpg",
+          "productName": "MIC WIRELESS 3IN1 F11-2",
+          "productPrice": "28 AZN",
+          "count": 1,
+          "getId": "EPX0232"
+        }
+      ]
+    },
+    "userConfig": {
+      "shopName": "GIPERAKS 28 MAY",
+      "branch": "28may",
+      "phone": "994504213635"
+    }
+  },
+  {
+    "id": 1750496265890,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/SF-777W.jpg",
+        "productName": "MIC WIRELESS YANMAI SF-777W WITH USB/TYPE-C",
+        "productPrice": "45 AZN",
+        "count": 1,
+        "getId": "HBJ9456"
+      }
+    ]
+  }
+]
