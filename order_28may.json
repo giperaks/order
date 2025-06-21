@@ -105,5 +105,24 @@
         "getId": "YBH0609"
       }
     ]
+  },
+  {
+    "id": 1750502058672,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/MC435.jpg",
+        "productName": "CAR CHARGER PD 60W EUROACS EU-MC435 C",
+        "productPrice": "8.50 AZN",
+        "count": "3",
+        "getId": "OBL6475"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/FN-KC09.jpg",
+        "productName": "CAR CHARGER USB FONI FN-KC09 2USB MIKRO",
+        "productPrice": "4.50 AZN",
+        "count": "4",
+        "getId": "MDL5151"
+      }
+    ]
   }
 ]
