@@ -36,5 +36,24 @@
         "getId": "CMK5267"
       }
     ]
+  },
+  {
+    "id": 1750499429732,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/EU-M45.jpg",
+        "productName": "MOUSE RECHARGE EUROACS EU-M45 SILENT",
+        "productPrice": "10 AZN",
+        "count": 1,
+        "getId": "YTX8480"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/eu-p354.jpg",
+        "productName": "OTURUCU L TO L-IN+AUX-IN EUROACS EU-P354",
+        "productPrice": "6 AZN",
+        "count": 1,
+        "getId": "AHR7224"
+      }
+    ]
   }
 ]
