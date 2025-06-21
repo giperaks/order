@@ -81,5 +81,31 @@
         "getId": "WIE9515"
       }
     ]
+  },
+  {
+    "id": 1750501094176,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/H197.jpg",
+        "productName": "HF TYPE-C EUROACS EU-H197",
+        "productPrice": "4 AZN",
+        "count": "1",
+        "getId": "CYK2694"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/H194.jpg",
+        "productName": "HF TYPE-C EUROACS EU-H194",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "DMF4168"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/EU-H094.jpg",
+        "productName": "HF 3.5MM EUROACS EU-H094 BLK",
+        "productPrice": "3 AZN",
+        "count": "4",
+        "getId": "YBH0609"
+      }
+    ]
   }
 ]
