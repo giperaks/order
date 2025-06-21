@@ -140,5 +140,17 @@
   {
     "id": 1750502526432,
     "card": []
+  },
+  {
+    "id": 1750502552980,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/EU-PW146.jpg",
+        "productName": "POWERBANK MW 10000 EUROACS EUROACS EU-PW146 15W",
+        "productPrice": "28 AZN",
+        "count": "3",
+        "getId": "GBV3008"
+      }
+    ]
   }
 ]
