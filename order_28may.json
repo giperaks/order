@@ -24,5 +24,17 @@
     ]
   },
   null,
-  null
+  null,
+  {
+    "id": 1750499035006,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/BT-M46.jpg",
+        "productName": "FM CAR BT M46",
+        "productPrice": "5.80 AZN",
+        "count": "333",
+        "getId": "CMK5267"
+      }
+    ]
+  }
 ]
