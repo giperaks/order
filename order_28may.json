@@ -152,5 +152,17 @@
         "getId": "GBV3008"
       }
     ]
+  },
+  {
+    "id": 1750502595173,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/EU-H094.jpg",
+        "productName": "HF 3.5MM EUROACS EU-H094 BLK",
+        "productPrice": "3 AZN",
+        "count": "10",
+        "getId": "TBH8176"
+      }
+    ]
   }
 ]
