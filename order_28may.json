@@ -55,5 +55,31 @@
         "getId": "AHR7224"
       }
     ]
+  },
+  {
+    "id": 1750499666687,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/FN-HC8.jpg",
+        "productName": "HOLDER CAR DASH FONI FN-HC8 B MAGNET ",
+        "productPrice": "6.50 AZN",
+        "count": "5",
+        "getId": "LIP2225"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/FN-HC5.jpg",
+        "productName": "HOLDER CAR AIR FONI FN-HC5 A MAGNET",
+        "productPrice": "6.50 AZN",
+        "count": "3",
+        "getId": "FGB4622"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/L-210612.jpg",
+        "productName": "HOLDER CAR VACUUM LBT L-210612",
+        "productPrice": "6.50 AZN",
+        "count": "4",
+        "getId": "WIE9515"
+      }
+    ]
   }
 ]
