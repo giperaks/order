@@ -224,5 +224,31 @@
         "getId": "MPM1770"
       }
     ]
+  },
+  {
+    "id": 1750590998785,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/ta8605.jpg",
+        "productName": "CHARGER PD 25W SAMSUNG TA8605 ",
+        "productPrice": "5.50 AZN",
+        "count": "10",
+        "getId": "CQG3714"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/samsung-a24.jpg",
+        "productName": "CHARGER PD 20W SAMSUNG A24 C ",
+        "productPrice": "5.50 AZN",
+        "count": "1",
+        "getId": "IPH2751"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/samsung-a24.jpg",
+        "productName": "CHARGER PD 20W SAMSUNG A24 M ",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "SFS5361"
+      }
+    ]
   }
 ]
