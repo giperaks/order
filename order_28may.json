@@ -266,5 +266,24 @@
   {
     "id": 1751471455433,
     "card": []
+  },
+  {
+    "id": 1753192591885,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/BTS-2186.jpg",
+        "productName": "SESGUCLENDIRICI BRODU BTS-2186 80W 12\" 2MIC",
+        "productPrice": "145 AZN",
+        "count": "1",
+        "getId": "NET5454"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/jr-t03s-jieli-pro.png",
+        "productName": "TWS JOYROOM JR-T03S PRO JIELI ",
+        "productPrice": "21.00 AZN",
+        "count": "1",
+        "getId": "SRI3687"
+      }
+    ]
   }
 ]
