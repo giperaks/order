@@ -325,5 +325,17 @@
         "getId": "EAV8038"
       }
     ]
+  },
+  {
+    "id": 1755082937639,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/BUBBLEBERRY.webp",
+        "productName": "[BUBBLEBERRY] ESCOBAR ES60 6000 tüstü",
+        "productPrice": "12.50 AZN",
+        "count": "1",
+        "getId": "FAK8292"
+      }
+    ]
   }
 ]
