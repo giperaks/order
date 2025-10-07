@@ -17,5 +17,24 @@
         "getId": "WZC9867"
       }
     ]
+  },
+  {
+    "id": 1759830789210,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 BLACK",
+        "productPrice": "5.51 AZN",
+        "count": "10",
+        "getId": "RIV2714"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 SILVER",
+        "productPrice": "5.51 AZN",
+        "count": "10",
+        "getId": "LUY0923"
+      }
+    ]
   }
 ]
