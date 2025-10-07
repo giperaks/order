@@ -1,3 +1,21 @@
 [
-
+  {
+    "id": 1759830649080,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/WhatsApp Şəkil 2025-09-08 saat 17.54.46_56c0eb59.jpg",
+        "productName": "COOLER S10",
+        "productPrice": "4 AZN",
+        "count": "10",
+        "getId": "RTK1279"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/WhatsApp Şəkil 2025-09-08 saat 17.54.06_14eed609.jpg",
+        "productName": "COOLER JS120 TYPE-C",
+        "productPrice": "11.50 AZN",
+        "count": "10",
+        "getId": "WZC9867"
+      }
+    ]
+  }
 ]
