@@ -196,5 +196,17 @@
   {
     "id": 1763019298168,
     "card": []
+  },
+  {
+    "id": 1763025773862,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/eu-ch737.jpg",
+        "productName": "HOLDER CAR VACUUM EUROACS EU-CH737 LONG MAGNETIC",
+        "productPrice": "7 AZN",
+        "count": "5",
+        "getId": "SLD8315"
+      }
+    ]
   }
 ]
