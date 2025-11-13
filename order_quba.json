@@ -144,5 +144,17 @@
         "getId": "PVA2201"
       }
     ]
+  },
+  {
+    "id": 1763018348180,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/FM-CAR-BT-C35.jpg",
+        "productName": "FM CAR BT C35",
+        "productPrice": "5.50 AZN",
+        "count": "1",
+        "getId": "WCU6222"
+      }
+    ]
   }
 ]
