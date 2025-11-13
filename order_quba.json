@@ -132,5 +132,17 @@
         "getId": "KTU6246"
       }
     ]
+  },
+  {
+    "id": 1763018045839,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/IMG-20251022-WA0006.jpg",
+        "productName": "CABLE AUX EUROACS EU-D015 1.5M",
+        "productPrice": "1.80 AZN",
+        "count": 1,
+        "getId": "PVA2201"
+      }
+    ]
   }
 ]
