@@ -232,5 +232,24 @@
         "getId": "PXM5143"
       }
     ]
+  },
+  {
+    "id": 1764763746480,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/BZ-3024.jpg",
+        "productName": "STIKER BZ-3024 GERB (METAL)",
+        "productPrice": "1.50 AZN",
+        "count": "2",
+        "getId": "YOW0712"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/BZ-3025.jpg",
+        "productName": "STIKER BZ-3025 AZERBAYCAN (METAL)",
+        "productPrice": "1 AZN",
+        "count": "2",
+        "getId": "VID8164"
+      }
+    ]
   }
 ]
