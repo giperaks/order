@@ -291,5 +291,24 @@
   {
     "id": 1773482963739,
     "card": []
+  },
+  {
+    "id": 1775039070719,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/IMG-20251022-WA0012.jpg",
+        "productName": "CABLE AUX FONI FC404 METAL",
+        "productPrice": "1.50 AZN",
+        "count": "1",
+        "getId": "EXB3507"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/IMG-20251022-WA0007.jpg",
+        "productName": "CABLE AUX BS-Y022",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "RFY2146"
+      }
+    ]
   }
 ]
