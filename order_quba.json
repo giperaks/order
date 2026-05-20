@@ -310,5 +310,24 @@
         "getId": "RFY2146"
       }
     ]
+  },
+  {
+    "id": 1779273879330,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/WhatsApp Şəkil 2025-09-08 saat 17.54.46_56c0eb59.jpg",
+        "productName": "COOLER S10",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "BRM6275"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/FN-Z05.jpg",
+        "productName": "COOLER FONI FROST FN-Z05 BLACK",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "UJL4853"
+      }
+    ]
   }
 ]
