@@ -353,5 +353,24 @@
         "getId": "DTC7037"
       }
     ]
+  },
+  {
+    "id": 1782764662124,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/IMG-20251010-WA0020.jpg",
+        "productName": "CHARGER USB 120W FONI FN-CH2120",
+        "productPrice": "11 AZN",
+        "count": "10",
+        "getId": "IZA2717"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/WhatsApp Şəkil 2025-09-17 saat 10.33.51_a39192b4.jpg",
+        "productName": "CHARGER USB QC JOKADE JB098 M",
+        "productPrice": "4 AZN",
+        "count": "10",
+        "getId": "PVT9932"
+      }
+    ]
   }
 ]
