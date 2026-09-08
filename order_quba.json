@@ -860,5 +860,87 @@
         "getId": "MPJ8713"
       }
     ]
+  },
+  {
+    "id": 1788900921538,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/WhatsApp Şəkil 2025-09-16 saat 10.51.56_3cc33117.jpg",
+        "productName": "POCKET 3061",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "KVM5459"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/WhatsApp Şəkil 2025-09-09 saat 18.00.44_5b9f43ce.jpg",
+        "productName": "STIKER BZ-3060 POPIT",
+        "productPrice": "1.50 AZN",
+        "count": "4",
+        "getId": "IJR0100"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/WhatsApp Şəkil 2025-09-01 saat 13.10.09_1ba30a34.jpg",
+        "productName": "SELFIE STICK PLOKAMA K5 WITH LED",
+        "productPrice": "10 AZN",
+        "count": "2",
+        "getId": "MFR0493"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/STAND2.1.jpg",
+        "productName": "STAND 2.1",
+        "productPrice": "9 AZN",
+        "count": "1",
+        "getId": "AAH4537"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/receiver-bt-komp.jpg",
+        "productName": "RECEIVER BT KOMPUTER 5.0",
+        "productPrice": "3 AZN",
+        "count": "1",
+        "getId": "OBS0187"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/reciver-ww07.jpg",
+        "productName": "RECEIVER WIFI ALFA WW07",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "HPA0108"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/mp3-sade.jpg",
+        "productName": "MP3 PLAYER SADE",
+        "productPrice": "3.50 AZN",
+        "count": "1",
+        "getId": "KFI4809"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/mp3-ekranli.jpg",
+        "productName": "MP3 PLAYER EKRANLI",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "BBZ7111"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/pen-universal.jpg",
+        "productName": "PEN UNIVERSAL TOUCH ANDROID IOS 2IN1",
+        "productPrice": "3 AZN",
+        "count": "1",
+        "getId": "AZA1719"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/my-120w.jpg",
+        "productName": "ADAPTER AC KOMPUTER MY-120W 9 CONNECTORS",
+        "productPrice": "14 AZN",
+        "count": "1",
+        "getId": "AKQ8206"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": "10",
+        "getId": "WPN9814"
+      }
+    ]
   }
 ]
